@@ -1,0 +1,15 @@
+.cosmic-promo {
+    background: #e5ecf3;
+
+    &__tabs {
+        width: 100%;
+        height: 53px;
+        background: url(../img/cosmic-promo/tabs.jpg) top center no-repeat;
+    }
+
+    &__prizes {
+        width: 100%;
+        height: 3509px;
+        background: url(../img/cosmic-promo/prizes.jpg) top center no-repeat;
+    }
+}
