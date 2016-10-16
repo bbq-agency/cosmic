@@ -1,6 +1,6 @@
 # Cosmic
 
-Front-end development of Cosmic promo gifts page
+Front-end development of Cosmic promo prizes page
 
 ### Run
 
